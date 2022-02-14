@@ -38,18 +38,3 @@ nav:
   scroll_to_top_title: "Scroll to top"
   skip_to_main: "Skip to main content"
 
-search:
-  open_button_title: "Search (/)"
-  close_button_title: "Close (Esc)"
-  input_placeholder: "Search"
-
-sharing:
-  email: "Send via email"
-  facebook: "Share on Facebook"
-  linkedin: "Share on LinkedIn"
-  pinterest: "Pin on Pinterest"
-  reddit: "Submit to Reddit"
-  twitter: "Tweet on Twitter"
-
-shortcode:
-  recent_articles: "Recent"
